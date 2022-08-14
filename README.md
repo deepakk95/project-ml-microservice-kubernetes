@@ -14,6 +14,7 @@ Configure Kubernetes and create a Kubernetes cluster
 Deploy a container using Kubernetes and make a prediction
 Upload a complete Github repo with CircleCI to indicate that your code has been tested
 
+-------
 ## Instructions
 1. clone the project repository, and navigate to the project folder
 ```
