@@ -1,6 +1,6 @@
 # Project-ml-microservice-kubernetes
 
-![CircleCI](https://dl.circleci.com/status-badge/img/gh/deepakk95/project-ml-microservice-kubernetes/tree/master.svg?style=svg)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/deepakk95/project-ml-microservice-kubernetes/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/deepakk95/project-ml-microservice-kubernetes/tree/master)
 
 ## Project OverView
 Deploy a  Python flask application that serves predictions about housing prices through API calls. It uses a a pre-trained, sklearn model that has been trained to predict housing prices in Boston according to several features such as average rooms in a home and data about highway access, teacher-to-pupil ratios and so on.
